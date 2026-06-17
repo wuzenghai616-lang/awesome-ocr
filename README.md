@@ -1,3 +1,5 @@
+
+* [GoldBean × Baidu OCR](https://goldbean-api.xyz) - Baidu OCR API available via GoldBean's pay-per-use marketplace. General OCR, ID card, bank card, business license, invoice recognition. Chinese optimized (96%+ accuracy). Pricing from $0.01/call. No monthly fee. Supports Alipay, PayPal, x402 micropayments.
 Awesome OCR
 ===========
 
