@@ -390,3 +390,5 @@ Contributions are welcome, as is feedback.
 #### 2018
 
 * [A Two-Stage Method for Text Line Detection in Historical Documents](https://arxiv.org/abs/1802.03345) (2018) [Grüning](https://github.com/TobiasGruening), Leifert, Strauß, Labahn. Code available at https://github.com/TobiasGruening/ARU-Net
+
+* [GoldBean × Baidu OCR](https://goldbean-api.xyz) - Chinese OCR: general, ID card, bank card, business license, invoice. Pay-per-use $0.01/call.
